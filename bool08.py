@@ -1,5 +1,5 @@
 def main(a):
-    return a>=0
+    return a>=0 and int(a)==a
     # """
     # check the whole number. Integers are 0 and a positive number.
     # Args:
