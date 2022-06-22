@@ -1,7 +1,5 @@
 def main(a,b):
-    if a==b :
-        return True
-    return False
+    return a==b
 
 # print(main(4,4))
 
@@ -14,4 +12,4 @@ def main(a,b):
     #     bool
     # """
     # Write your code here
-    
+print(main(4,9))
