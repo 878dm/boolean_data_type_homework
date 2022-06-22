@@ -1,7 +1,7 @@
 def main(a,b):
     if a==b :
-        return "True"
-    return "False"
+        return True
+    return False
 
 print(main(4,4))
 
