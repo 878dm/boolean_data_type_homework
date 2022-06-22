@@ -3,7 +3,7 @@ def main(a,b):
         return True
     return False
 
-print(main(4,4))
+# print(main(4,4))
 
     # """
     # Check the logic "they are equal"
